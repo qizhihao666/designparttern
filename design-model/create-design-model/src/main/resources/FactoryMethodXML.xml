@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <className>com.example.createdesignmodel.factorymethodpattern.loggerfactory.DatabaseLoggerFactory</className>
+</config>
+<!--软件系统的配置文件通常为xml文件，解析xml文件可以通过DOM（Document Object Model），SAX(Simple Api for xml),StAX(Streaming Api for xml)等语言解析-->
