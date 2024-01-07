@@ -1,8 +1,7 @@
-package com.example.createdesignmodel.factorymethodpattern;
+package com.example.createdesignmodel.factorymethodpattern.standard;
 
-import com.example.createdesignmodel.factorymethodpattern.logger.Logger;
-import com.example.createdesignmodel.factorymethodpattern.loggerfactory.DatabaseLoggerFactory;
-import com.example.createdesignmodel.factorymethodpattern.loggerfactory.LoggerFactory;
+import com.example.createdesignmodel.factorymethodpattern.standard.logger.Logger;
+import com.example.createdesignmodel.factorymethodpattern.standard.loggerfactory.LoggerFactory;
 import com.example.createdesignmodel.utils.XMLUtil;
 
 /**

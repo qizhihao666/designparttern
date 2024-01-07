@@ -1,4 +1,4 @@
-package com.example.createdesignmodel.factorymethodpattern.logger;
+package com.example.createdesignmodel.factorymethodpattern.standard.logger;
 
 /**
  * @author qzh

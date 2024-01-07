@@ -1,6 +1,6 @@
-package com.example.createdesignmodel.factorymethodpattern.loggerfactory;
+package com.example.createdesignmodel.factorymethodpattern.standard.loggerfactory;
 
-import com.example.createdesignmodel.factorymethodpattern.logger.Logger;
+import com.example.createdesignmodel.factorymethodpattern.standard.logger.Logger;
 
 /**
  * @author qzh
